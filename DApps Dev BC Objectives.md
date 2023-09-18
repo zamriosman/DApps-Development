@@ -1,4 +1,4 @@
-Certainly, let's add strategies to achieve the objectives for each section of the training course:
+
 
 **Week 1: Introduction to Blockchain and DApps**
 - **Objective:** Understand the fundamentals of blockchain technology.
